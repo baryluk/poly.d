@@ -1,0 +1,12 @@
+poly
+# native (binary) object code:
+*.o
+# native assembly:
+*.S
+*.s
+# LLVM bitcode:
+*.bc
+# LLVM IR:
+*.ll
+# Default gcc / gdc output:
+a.out
